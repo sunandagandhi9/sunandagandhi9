@@ -38,7 +38,6 @@ Capstone project: an end-to-end deep learning pipeline that transcribes silent s
 
 
 
-> 📌 *Pin these three repos on your profile so they're the first thing recruiters see.*
 
 ---
 
