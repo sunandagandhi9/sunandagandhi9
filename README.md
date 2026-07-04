@@ -27,12 +27,12 @@ Currently exploring retrieval-augmented generation, applied NLP, and exploring t
 
 ### 🚀 Featured Projects
 
-**[⚖️ Legal AI — EU AI Act RAG Assistant](#)**
+**[⚖️ Legal AI — EU AI Act RAG Assistant]**
 A retrieval-augmented generation (RAG) chatbot that answers questions about the EU Artificial Intelligence Act — one of the most complex pieces of AI legislation in the world — in plain, conversational language.
 
 Built to demonstrate how a RAG pipeline can make a 100+ page legal document as easy to query as chatting with an expert, while grounding every answer in the source text.
 
-**[LipSense — Automated Lip Reading & Speech Transcription](#)**
+**[LipSense — Automated Lip Reading & Speech Transcription]**
 Capstone project: an end-to-end deep learning pipeline that transcribes silent speech from video, with no audio input. Took the system from literature review through dataset prep, model training, and evaluation using a Spatiotemporal CNN + GRU on the GRID corpus, deployed via Streamlit.
 `Python` `TensorFlow` `CNN` `GRU` `Streamlit`
 
